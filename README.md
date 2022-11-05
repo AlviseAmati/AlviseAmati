@@ -1,6 +1,6 @@
 #### Languages
 ![Java](https://img.shields.io/badge/Java-Beginner-brightgreen?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Fluent-green?style=flat&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-green?style=flat&logo=javascript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Beginner-blue?style=flat&logo=c%20sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-Beginner-yellow?style=flat&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-red?style=flat&logo=php&logoColor=white)
