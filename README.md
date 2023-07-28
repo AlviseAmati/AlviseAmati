@@ -1,9 +1,7 @@
 #### Languages
-![Java](https://img.shields.io/badge/Java-Beginner-brightgreen?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-brightgreen?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-green?style=flat&logo=javascript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Beginner-blue?style=flat&logo=c%20sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-Beginner-yellow?style=flat&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-red?style=flat&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Beginner-red?style=flat&logo=php&logoColor=white)
 #### Other techs
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-blue?style=flat&logo=docker&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-Intermediate-green?style=flat&logo=node.js&logoColor=white)
